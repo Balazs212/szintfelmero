@@ -1,0 +1,6 @@
+@Szintfelmero_HostAddress = http://localhost:5131
+
+GET {{Szintfelmero_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
